@@ -1,0 +1,13 @@
+{
+  "name": "reviews",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Carpenter <carpenterd777@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.1"
+  }
+}
